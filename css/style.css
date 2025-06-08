@@ -81,10 +81,10 @@ button {
     display: flex;
     align-items: start;
     gap: 15px;
-    ion-icon {
-      /* width: 26px;
-      height: 27px; */
-    }
+    /* ion-icon {
+      width: 26px;
+      height: 27px;
+    } */
   }
 }
 #logoes {
